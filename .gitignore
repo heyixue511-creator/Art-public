@@ -1,0 +1,24 @@
+# IDE / Editor
+.specstory/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Nested git repo
+.openscience/artifact-repo/.git/
+
+# OS
+.DS_Store
+Thumbs.db
